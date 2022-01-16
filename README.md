@@ -1,7 +1,7 @@
 # Olá, sou Aline Barbosa!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
+[![Potifólio](https://img.shields.io/badge/Potifólio?style=flat-square&logo=Potifólio&logoColor=white&link=https://alinemelry.github.io/)](https://alinemelry.github.io/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](www.linkedin.com/in/alinebarbosaaraujo)
 
 ## About me:
 
