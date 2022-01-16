@@ -1,14 +1,13 @@
-# Olá, sou Aline Barbosa!
-[![Potifólio]https://img.shields.io/badge/Potif%C3%B3lio-8B89CC?style=for-the-badge&logo=https://alinemelry.github.io/l&logoColor=white](https://alinemelry.github.io)
+# Olá, sou Aline Barbosa
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](www.linkedin.com/in/alinebarbosaaraujo)
 
-## About me:
+## Sobre mim:
 
-I'm a Fullstack Developer :smile:
+Eu sou um desenvolvedora FrontEnd :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+Adoro codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
-## My specialties:
+## Minhas especialidades:
 
 ### Languages: <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
 
