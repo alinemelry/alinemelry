@@ -1,5 +1,5 @@
 # Olá, sou Aline Barbosa!
-https://img.shields.io/badge/Potif%C3%B3lio-8B89CC?style=for-the-badge&logo=https://alinemelry.github.io/l&logoColor=white
+[![Potifólio]https://img.shields.io/badge/Potif%C3%B3lio-8B89CC?style=for-the-badge&logo=https://alinemelry.github.io/l&logoColor=white](https://alinemelry.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](www.linkedin.com/in/alinebarbosaaraujo)
 
 ## About me:
