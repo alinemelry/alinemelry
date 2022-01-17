@@ -1,6 +1,6 @@
 # Olá, sou Aline Barbosa
 
- <a href = "aline.melry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href = "aline.melryaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=-Gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinebarbosaaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=-Linkedin&logoColor=white" target="_blank"></a>
 
 ## Sobre mim:
