@@ -39,7 +39,7 @@ Adoro codificar e criar coisas novas, gosto muito de descobrir novas tecnologias
 </div>
 
 <div> 
- 
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>  
   ![Snake animation](https://github.com/alinemelry/alinemelry/blob/output/github-contribution-grid-snake.svg)
  
 </div>
