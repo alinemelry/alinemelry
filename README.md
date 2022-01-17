@@ -1,10 +1,11 @@
 # Olá, sou Aline Barbosa
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)"/>
+ <a href = "aline.melry@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/alinebarbosaaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=-Linkedin&logoColor=white" target="_blank"></a>
 
 ## Sobre mim:
 
-Eu sou um desenvolvedora FrontEnd :smile:
+Busco Oportunidade em Desevolvimento FrontEnd Júnior :smile:
 
 Adoro codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
 
@@ -31,6 +32,14 @@ Adoro codificar e criar coisas novas, gosto muito de descobrir novas tecnologias
 
 ## Meus Desempenhos 😁
 
-[![peguimasid github stats](https://github-readme-stats.vercel.app/api?username=alinemelry&show_icons=true&title_color=fff&icon_color=7159c1&text_color=f8f8f2&bg_color=171c24&count_private=true)](https://github.com/alinemelry)
+<div align="center">
+  <a href="https://github.com/alinemelry">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alinemelry&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinemelry&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alinemelry3g&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/alinemelry)
+<div> 
+ 
+  ![Snake animation](https://github.com/alinemelry/alinemelry/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
