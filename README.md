@@ -1,5 +1,6 @@
 # Olá, sou Aline Barbosa
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](www.linkedin.com/in/alinebarbosaaraujo) <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/alinebarbosaaraujo)](www.linkedin.com/in/alinebarbosaaraujo) <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>(www.linkedin.com/in/alinebarbosaaraujo)
 
 
 ## Sobre mim:
